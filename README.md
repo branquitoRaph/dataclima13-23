@@ -1,3 +1,45 @@
 # Dados do servidor SFTP do INCAPER, convertido para planilhas através do script
 
 [Link do arquivo RAR contendo os dados do FTP organizado](https://drive.google.com/file/d/185oiYJW-b5ySdy69GiQzTKiCWopYaujt/view?usp=sharing)
+
+### Descrição dos dados das colunas
+
+#### Obs: Barracão está desativada, Ibitirama não possui dados de vento de 1h
+
+    "nome",
+    "data",
+    "hora",
+    "temperatura_interna",
+    "pressao_inst",
+    "pressso_med",
+    "pressao_max",
+    "pressao_min",
+    "temperatura_inst",
+    "temperatura_med",
+    "temperatura_max",
+    "temperatura_min",
+    "umidade_inst",
+    "umidade_med",
+    "umidade_max",
+    "umidade_min",
+    "radiacao_global_inst",
+    "radiacao_global_med",
+    "radiacao_global_max",
+    "radiacao_global_min",
+    "radiacao_liquid_inst",
+    "radiacao_liquid_med",
+    "radiacao_liquid_max",
+    "radiacao_liquid_min",
+    "dir_vento_metros_med",
+    "dir_vento_metros_min",
+    "vel_vento_metros_med",
+    "vel_vento_metros_max",
+    "vel_vento_metros_min",
+    "dir_vento_hora_med",
+    "dir_vento_hora_max",
+    "dir_vento_hora_min",
+    "vel_vento_hora_med",
+    "vel_vento_hora_max",
+    "vel_vento_hora_min",
+    "precipatacao",
+    "bateria",
